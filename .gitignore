@@ -2,6 +2,7 @@ node_modules
 package-lock.json
 build
 .pnp.js
+.env
 # misc
 .DS_Store
 .env.local
