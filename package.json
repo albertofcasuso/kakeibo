@@ -22,7 +22,7 @@
     "react-hot-toast": "^2.3.0"
   },
   "devDependencies": {
-    "eslint": "8.23.0",
+    "eslint": "8.31.0",
     "eslint-config-next": "12.2.5"
   }
 }
